@@ -58,6 +58,7 @@ class CalibrationRole(Enum):
     TELLURIC = auto()
     DAYTIME_PINHOLE = auto()
     DAYTIME_FLAT = auto()
+    DAYTIME_ARC = auto()
     DAYTIME_CALIBRATION = auto()
 
 
